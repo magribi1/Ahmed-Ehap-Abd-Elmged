@@ -1,6 +1,6 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-<h1 align="center">Hi there 👋, I'm AHMED EHAP</h1>
+<h1 align="center">Hi , I'm Ahmed Ehap</h1>
 
 <h3 align="center">Cybersecurity Learner | Aspiring Penetration Tester 🔐</h3>
 
@@ -8,118 +8,88 @@
 
 ##  About Me
 
- I'm an Information Systems student passionate about **Cybersecurity, Networking, and Web Security**.
+ Information Systems Student interested in **Cybersecurity**.
 
- Currently focused on building my skills in **Cybersecurity and Penetration Testing**.
+ Currently focusing on **Penetration Testing, Web Security, and Networking**.
 
- I have a background in **Web Development**, which helps me understand how web applications work and how they can be secured.
+ I have a background in **Web Development**, which helps me understand web applications and their security.
 
- I'm continuously learning through **hands-on labs, practical projects, and security challenges**.
+ I learn through **hands-on labs, practical exercises, and security challenges**.
 
- My goal is to become a **Cybersecurity Engineer / Penetration Tester** and build strong practical security skills.
-
----
-
-##  Cybersecurity
-
-*  Reconnaissance & Information Gathering
-*  Web Security & Web Application Testing
-*  SQL Injection
-*  XSS
-*  File Inclusion
-*  Password Security & Cracking Concepts
-*  Linux & Kali Linux
-*  Networking & CCNA Fundamentals
-*  Metasploit
-*  Nmap
-*  Wireshark
-*  TryHackMe & Hack The Box
-*  Secure Coding & Code Review
+ My goal is to become a **Cybersecurity Engineer and Penetration Tester**.
 
 ---
 
-##  Technical Skills
+##  Cybersecurity Skills
 
-**Programming**
+* Linux & Kali Linux
+* Networking Fundamentals
+* Web Security
+* Reconnaissance
+* Vulnerability Assessment
+* SQL Injection
+* XSS
+* File Inclusion
+* Password Security
+* Secure Coding
+* Code Review
 
-* Python
-* JavaScript
-* C++
-* PHP
+---
 
-**Web Development**
+## 🛠️ Tools
 
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Git & GitHub
-
-**Networking**
-
-* TCP/IP
-* OSI Model
-* VLANs
-* Trunking
-* Inter-VLAN Routing
-* ARP
-* Routing Fundamentals
-
-**Cybersecurity Tools**
-
-* Kali Linux
 * Nmap
+* Burp Suite
 * Wireshark
 * Metasploit
-* Burp Suite
 * Hydra
 * John the Ripper
 
 ---
 
+##  Networking
+
+Currently learning and practicing:
+
+* OSI Model
+* TCP/IP
+* ARP
+* VLANs
+* Trunking
+* Inter-VLAN Routing
+* Routing Fundamentals
+* Cisco Packet Tracer
+
+---
+
+##  Programming & Web
+
+* Python
+* C++
+* JavaScript
+* PHP
+* HTML
+* CSS
+* React
+* Git & GitHub
+
+---
+
+##  Practice
+
+* TryHackMe
+* Hack The Box
+* CTF Challenges
+* Cisco Packet Tracer Labs
+* Web Security Labs
+
+---
+
 ##  Currently Learning
 
-```text
-Cybersecurity
-   │
-   ├── Networking
-   ├── Web Security
-   ├── Linux
-   ├── Reconnaissance
-   ├── Vulnerability Assessment
-   ├── Penetration Testing
-   └── Secure Coding
-```
+**Cybersecurity → Networking → Web Security → Penetration Testing**
 
- Currently working on:
-
-* Cybersecurity Fundamentals
-* CCNA / Networking
-* Web Application Security
-* Secure Implementation & Code Review
-* Penetration Testing
-* CTF Challenges
-
----
-
-##  Projects & Practice
-
-*  Web Development Projects
-*  Cybersecurity Labs
-*  Vulnerability Testing Labs
-*  Networking Labs using Cisco Packet Tracer
-*  Linux Security Practice
-*  CTF Challenges
-
----
-
-##  My Learning Philosophy
-
-> **Learn → Practice → Break → Understand → Build Better**
-
-I believe that cybersecurity can't be learned from theory alone.
-
-**Hands-on practice is the key. **
+I'm currently building my skills step by step through **practice and real-world labs**.
 
 ---
 
@@ -129,6 +99,9 @@ I believe that cybersecurity can't be learned from theory alone.
 *  GitHub: [magribi1](https://github.com/magribi1/Ahmed-Ehap-Abd-Elmged/blob/main/README.md)
 *  Email: [Ahmed Ehab](mailto:ahmedeyhap521@gmail.com)
 
+
 ---
 
-<h3 align="center"> Always Learning. Always Hacking. Always Improving.</h3>
+<h3 align="center"> Learning Cybersecurity One Step at a Time.</h3>
+
+
