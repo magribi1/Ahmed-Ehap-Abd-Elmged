@@ -6,39 +6,39 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-🎓 I'm an Information Systems student passionate about **Cybersecurity, Networking, and Web Security**.
+ I'm an Information Systems student passionate about **Cybersecurity, Networking, and Web Security**.
 
-🔐 Currently focused on building my skills in **Cybersecurity and Penetration Testing**.
+ Currently focused on building my skills in **Cybersecurity and Penetration Testing**.
 
-🌐 I have a background in **Web Development**, which helps me understand how web applications work and how they can be secured.
+ I have a background in **Web Development**, which helps me understand how web applications work and how they can be secured.
 
-🧠 I'm continuously learning through **hands-on labs, practical projects, and security challenges**.
+ I'm continuously learning through **hands-on labs, practical projects, and security challenges**.
 
-🚀 My goal is to become a **Cybersecurity Engineer / Penetration Tester** and build strong practical security skills.
-
----
-
-## 🔐 Cybersecurity
-
-* 🕵️ Reconnaissance & Information Gathering
-* 🌐 Web Security & Web Application Testing
-* 💉 SQL Injection
-* ⚡ XSS
-* 📂 File Inclusion
-* 🔑 Password Security & Cracking Concepts
-* 🖥️ Linux & Kali Linux
-* 🌐 Networking & CCNA Fundamentals
-* 🛠️ Metasploit
-* 🔍 Nmap
-* 📡 Wireshark
-* 🎯 TryHackMe & Hack The Box
-* 🧩 Secure Coding & Code Review
+ My goal is to become a **Cybersecurity Engineer / Penetration Tester** and build strong practical security skills.
 
 ---
 
-## 💻 Technical Skills
+##  Cybersecurity
+
+*  Reconnaissance & Information Gathering
+*  Web Security & Web Application Testing
+*  SQL Injection
+*  XSS
+*  File Inclusion
+*  Password Security & Cracking Concepts
+*  Linux & Kali Linux
+*  Networking & CCNA Fundamentals
+*  Metasploit
+*  Nmap
+*  Wireshark
+*  TryHackMe & Hack The Box
+*  Secure Coding & Code Review
+
+---
+
+##  Technical Skills
 
 **Programming**
 
@@ -77,7 +77,7 @@
 
 ---
 
-## 🧪 Currently Learning
+##  Currently Learning
 
 ```text
 Cybersecurity
@@ -91,7 +91,7 @@ Cybersecurity
    └── Secure Coding
 ```
 
-📚 Currently working on:
+ Currently working on:
 
 * Cybersecurity Fundamentals
 * CCNA / Networking
@@ -102,33 +102,33 @@ Cybersecurity
 
 ---
 
-## 🚀 Projects & Practice
+##  Projects & Practice
 
-* 🌐 Web Development Projects
-* 🔐 Cybersecurity Labs
-* 🧪 Vulnerability Testing Labs
-* 🌐 Networking Labs using Cisco Packet Tracer
-* 🐧 Linux Security Practice
-* 🎯 CTF Challenges
+*  Web Development Projects
+*  Cybersecurity Labs
+*  Vulnerability Testing Labs
+*  Networking Labs using Cisco Packet Tracer
+*  Linux Security Practice
+*  CTF Challenges
 
 ---
 
-## 📊 My Learning Philosophy
+##  My Learning Philosophy
 
 > **Learn → Practice → Break → Understand → Build Better**
 
 I believe that cybersecurity can't be learned from theory alone.
 
-**Hands-on practice is the key. 🔥**
+**Hands-on practice is the key. **
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-* 💼 LinkedIn: [Ahmed Ehap](https://www.linkedin.com/in/احمد-ايهاب-75a44a354)
-* 💻 GitHub: [ahmed111](https://github.com/ahmed111)
-* 📧 Email: [ahmedeyhap521@gmail.com](mailto:ahmedeyhap521@gmail.com)
+*  LinkedIn: [Ahmed Ehab](www.linkedin.com/in/ahmed-ehap-75a44a354)
+*  GitHub: [magribi1](https://github.com/ahmed111)
+*  Email: [Ahmed Ehab](mailto:ahmedeyhap521@gmail.com)
 
 ---
 
-<h3 align="center">🔐 Always Learning. Always Hacking. Always Improving.</h3>
+<h3 align="center"> Always Learning. Always Hacking. Always Improving.</h3>
