@@ -126,7 +126,7 @@ I believe that cybersecurity can't be learned from theory alone.
 ##  Connect With Me
 
 *  LinkedIn: [Ahmed Ehab](www.linkedin.com/in/ahmed-ehap-75a44a354)
-*  GitHub: [magribi1](https://github.com/ahmed111)
+*  GitHub: [magribi1](https://github.com/magribi1/Ahmed-Ehap-Abd-Elmged/blob/main/README.md)
 *  Email: [Ahmed Ehab](mailto:ahmedeyhap521@gmail.com)
 
 ---
